@@ -1,0 +1,26 @@
+.header{
+    background-color:#f1adff;
+    display: flex;
+    justify-content: space-between;
+}
+.sub-header{
+    background-color:#f1adff; 
+}
+.body{
+    
+    background-color:#f1adff;
+}
+.origami{
+    margin-left: 50px;
+}
+
+.origami:hover{
+   transform: scale(1.01);
+}
+
+a:link{
+    color:black;
+}
+a:visited{
+    color:cornflowerblue;
+}
